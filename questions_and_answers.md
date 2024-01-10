@@ -18,9 +18,9 @@ console.log(greetign);
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### Answer: ?
+#### Answer: A 
 
-<i>Write your explanation here</i>
+<i>first declare variable name but not set value that time it;s output undefined but next line variable name equal to empty object so it's output will be empty object</i>
 
 </p>
 </details>
@@ -43,9 +43,9 @@ sum(1, "2");
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### Answer: ?
+#### Answer: C
 
-<i>Write your explanation here</i>
+<i>a parameter is number and b parameter is string.so a+b output will 12 because + operator in a number and and string so js joined them </i>
 
 </p>
 </details>
@@ -69,9 +69,9 @@ console.log(food);
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### Answer: ?
+#### Answer: A
 
-<i>Write your explanation here</i>
+<i>Here we see fabouriteFood 0index then set the fabouriteFood another food but console.log (food) so favouriteFood not affect output </i>
 
 </p>
 </details>
@@ -94,9 +94,9 @@ console.log(sayHi());
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### Answer: ?
+#### Answer: B
 
-<i>Write your explanation here</i>
+<i>here function sayHi's parameter name. this function expect value for parameter but here called this function without parameter so it;s output undefined</i>
 
 </p>
 </details>
@@ -122,9 +122,9 @@ console.log(count);
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### Answer: ?
+#### Answer: C
 
-<i>Write your explanation here</i>
+<i> For each truthy element (1, 2, 3), the if (num) condition is satisfied, and count is incremented by 1. Therefore, the final count is 3, representing the number of truthy values in the array.</i>
 
 </p>
 </details>
